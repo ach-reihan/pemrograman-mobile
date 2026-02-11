@@ -1,22 +1,20 @@
-# pemrograman-mobile
-
-## HelloUI
+# HelloUI
 
 HelloUI adalah aplikasi Android sederhana yang memungkinkan pengguna input nama, menampilkan teks, dan mengganti tema aplikasi.
 
-### Fitur
+## Fitur
 * **Input Teks:** Pengguna memasukkan nama.
 * **Sapaan:** Menampilkan teks sapaan berdasarkan nama yang dimasukkan ("Hello {Nama}!") setelah tombol ditekan.
 * **Tema Terang/Gelap:** Untuk mengubah tema aplikasi antara *Light Mode* dan *Dark Mode*.
 
-### Tampilan Layar
+## Tampilan Layar
 *(Di bawah ini adalah tampilan aplikasi)*
 
 |                                              Light Mode                                              |                                            Dark Mode                                             |
 |:----------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
 | ![Light Mode](screenshots/light_mode.png)<br/>![Hasil Light Mode](screenshots/result_light_mode.png) | ![Dark Mode](screenshots/dark_mode.png)<br/>![Hasil Dark Mode](screenshots/result_dark_mode.png) |
 
-### Cara Menjalankan Aplikasi
+## Cara Menjalankan Aplikasi
 
 1. Menginstal **Android Studio** versi terbaru.
 2. *Clone* repositori ke komputer Anda:
