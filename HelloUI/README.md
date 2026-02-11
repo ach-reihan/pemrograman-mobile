@@ -1,3 +1,6 @@
+Nama : Achmad Reihan Alfaiz\
+NIM  : 2410817210019
+
 # HelloUI
 
 HelloUI adalah aplikasi Android sederhana yang memungkinkan pengguna input nama, menampilkan teks, dan mengganti tema aplikasi.
@@ -6,6 +9,9 @@ HelloUI adalah aplikasi Android sederhana yang memungkinkan pengguna input nama,
 * **Input Teks:** Pengguna memasukkan nama.
 * **Sapaan:** Menampilkan teks sapaan berdasarkan nama yang dimasukkan ("Hello {Nama}!") setelah tombol ditekan.
 * **Tema Terang/Gelap:** Untuk mengubah tema aplikasi antara *Light Mode* dan *Dark Mode*.
+
+## Demo Aplikasi
+Link YouTube: https://youtu.be/Yjpt7O2AcXU
 
 ## Tampilan Layar
 *(Di bawah ini adalah tampilan aplikasi)*
