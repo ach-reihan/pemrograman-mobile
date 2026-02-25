@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">DroidLens</string>
+
+    <string name="tab_history">Sejarah Android</string>
+    <string name="tab_architecture">Arsitektur &amp; Device</string>
+
+    <string name="title_history">Sejarah Android</string>
+    <string name="history_2003_title">2003: Pendirian Android Inc.</string>
+    <string name="history_2003_body">Android didirikan di Palo Alto oleh Andy Rubin, Rich Miner, Nick Sears, dan Chris White. Fokus awalnya adalah sistem operasi untuk kamera digital sebelum beralih ke telepon pintar.</string>
+    <string name="history_2005_title">2005: Akuisisi Google</string>
+    <string name="history_2005_body">Google mengakuisisi Android Inc. secara penuh. Tim pengembang mulai merancang platform seluler berbasis kernel Linux yang fleksibel.</string>
+    <string name="history_2007_title">2007: Open Handset Alliance (OHA)</string>
+    <string name="history_2007_body">Konsorsium OHA dibentuk oleh raksasa teknologi (Google, HTC, Samsung, dll). Android resmi diperkenalkan sebagai platform standar terbuka.</string>
+    <string name="history_2008_title">2008: HTC Dream (G1)</string>
+    <string name="history_2008_body">Peluncuran ponsel komersial pertama berbasis Android, yakni HTC Dream, pada 22 Oktober 2008.</string>
+    <string name="history_2010_title">2010: Seri Nexus</string>
+    <string name="history_2010_body">Google mulai merilis perangkat "Nexus" (seperti Nexus One) bekerja sama dengan mitra produsen untuk menunjukkan potensi murni OS Android.</string>
+    <string name="history_2013_title">2013: Kepemimpinan Baru</string>
+    <string name="history_2013_body">Sundar Pichai menggantikan Andy Rubin sebagai pemimpin divisi Android, membawa visi integrasi dengan Chrome OS.</string>
+    <string name="history_2014_title">2014 - Sekarang: Evolusi &amp; Pembaruan</string>
+    <string name="history_2014_body">Android terus diperbarui secara berkala dengan nama-nama unik (Cupcake hingga Android 12) untuk meningkatkan keamanan dan fitur pengguna.</string>
+    <string name="history_source">Sumber: https://id.wikipedia.org/wiki/Android_(sistem_operasi)#Sejarah</string>
+
+    <string name="title_architecture">Arsitektur Android &amp; Info Device</string>
+    <string name="stack_application">Application</string>
+    <string name="stack_framework">Application Framework</string>
+    <string name="stack_runtime">Android Runtime (ART)</string>
+    <string name="stack_libraries">Libraries</string>
+    <string name="stack_kernel">Linux Kernel</string>
+
+    <string name="title_device_info">Info Device</string>
+    <string name="label_android_version">Android Version</string>
+    <string name="label_device_model">Device Model</string>
+    <string name="label_manufacturer">Manufacturer/Brand</string>
+    <string name="label_kernel_version">Kernel Version</string>
+    <string name="label_battery_level">Battery Level</string>
+    <string name="label_network_status">Network Status</string>
+
+    <string name="value_placeholder">-</string>
+    <string name="value_android_version">%1$s (SDK %2$d)</string>
+    <string name="value_manufacturer_brand">%1$s / %2$s</string>
+    <string name="value_battery_percent">%1$d%%</string>
+    <string name="value_unknown">Unknown</string>
+
+    <string name="network_wifi">WIFI</string>
+    <string name="network_cellular">Cellular</string>
+    <string name="network_offline">Offline</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#9BB2FF</color>
+    <color name="on_primary">#0E1B4D</color>
+    <color name="secondary">#6EEAD6</color>
+    <color name="on_secondary">#0B1F1B</color>
+    <color name="tertiary">#FFD166</color>
+    <color name="on_tertiary">#2B1D00</color>
+
+    <color name="background">#101114</color>
+    <color name="surface">#15161A</color>
+    <color name="on_surface">#E6E7EB</color>
+    <color name="outline">#2A2D33</color>
+
+    <color name="stack_application">#6A4B3D</color>
+    <color name="stack_framework">#2B3F5A</color>
+    <color name="stack_runtime">#2D3A5A</color>
+    <color name="stack_libraries">#2E4A3A</color>
+    <color name="stack_kernel">#3A3E45</color>
+    <color name="stack_text">#E6E7EB</color>
+</resources>
+

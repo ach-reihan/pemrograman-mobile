@@ -22,6 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "HelloUI"
+rootProject.name = "DroidLens"
 include(":app")
- 
